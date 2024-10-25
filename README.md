@@ -1,21 +1,25 @@
 # 112
 
 t347:
-102524-Core-One.zip: 
+102524-Core-One.zip: https://drive.google.com/file/d/1KDHQ4YfPAmbnzBR_mnbiZCcjz35k2FFp/view?usp=sharing
+102524-OneNote Notebooks.zip: https://drive.google.com/file/d/1zmtDVM586PsCg4ntOTpVcXVoaTcF2wjh/view?usp=sharing
 0919-Backup (Folder): https://drive.google.com/drive/folders/10gpfz-v535z2Va-0y6D1hX0hg2bGNNj7?usp=sharing
 101624-CV.zip: https://drive.google.com/file/d/1IGcH8oLWlWHXyfXt6ledRI6fczS0zTOP/view?usp=sharing
 
 aidenmiller.shine:
-102524-Core-One.zip: 
+102524-Core-One.zip: https://drive.google.com/file/d/1GJmfswSI4IG4kSK_S2eOmheqReBDlA2k/view?usp=sharing
+102524-OneNote Notebooks.zip: https://drive.google.com/file/d/1I0d-e4EczbXkRdEwY9715clYdZpvsAwV/view?usp=sharing
 101624-CV.zip: https://drive.google.com/file/d/1Gls7Nm4153PfkuLgLSfm-TuPMc3brAFp/view?usp=sharing
 
 green:
-102524-Core-One.zip: 
+102524-Core-One.zip: https://drive.google.com/file/d/1BILWu8EijjAjgSz4y3WIzQQex0XUcQqJ/view?usp=sharing
+102524-OneNote Notebooks.zip: https://drive.google.com/file/d/121ih27rGLLqJiocZquZzyMt0qBh7PPxo/view?usp=sharing
 050724-Backup: https://drive.google.com/drive/folders/1RwlCAWc36xn8ilAeIyUAdNgMW487t9AC?usp=sharing
 101624-CV.zip: https://drive.google.com/file/d/1SQhd7Y5wfMuCSqAsxpaVA9IhgMKYt3Pe/view?usp=sharing
 
 seven.tech112:
-102524-Core-One.zip: 
+102524-Core-One.zip: https://drive.google.com/file/d/1uYBGwtQWRMvWqWSaISYzmd-hSRoDAA3z/view?usp=sharing
+102524-OneNote Notebooks.zip: https://drive.google.com/file/d/1DQaO0Ou_xLLnvVsTeaVpnK4YMV1nhr4m/view?usp=sharing
 101624-CV.zip: https://drive.google.com/file/d/1UaqhObEV0aPuhjw-CoGFfIEYwFkGDUIJ/view?usp=sharing
 
 red:
